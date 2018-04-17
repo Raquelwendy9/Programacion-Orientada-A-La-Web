@@ -1,0 +1,36 @@
+form{
+ 	margin: auto;
+ 	padding: 1em;
+ 	width: 400px;
+}
+#Inicio
+{
+	border: 0px solid black;
+	height: 400px;
+	width: 400px;
+	margin: auto;
+	display: block;
+}
+
+#Datos
+{
+	display: inline-block;
+
+}
+div input
+{
+	margin-bottom: 12px;
+}
+div select
+{
+	margin-bottom: 10px;
+	background: #CCD1D1;
+}
+#Button
+{
+	background: #3498DB;
+	color: #fff;
+	border: none;
+	height: 30px;
+	width: 80px;
+}
