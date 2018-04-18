@@ -1,0 +1,46 @@
+form
+{
+	margin: auto;
+ 	padding: 1em;
+ 	width: 400px;
+ 	margin-top: auto;
+
+}
+#Inicio
+{
+	border: 7px solid #4B7483;
+	height: 200px;
+	width: 410px;
+	padding: 30px 30px 10px;
+	margin: auto;
+	display: block;
+	background: #536A7E;
+	text-align: left;
+
+}
+#Button
+{
+	background: #5A80A2;
+	color: #B9CFD7;
+	height: 30px;
+	width: 80px;
+}
+.Cajas
+{
+
+	border-color: #B9CFD7;
+	border-style: dotted;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	background: #536A7E;
+	margin-top: 5px;
+	width: 260px;
+
+
+}
+.Campos tr
+{
+	height: 30px;
+}
+										
